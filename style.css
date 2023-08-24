@@ -1,6 +1,8 @@
 ul
-.container[
-  display:flex;
-  }
-  ul{
+.container{
+
     display:flex;
+}
+  
+  ul{
+    display:flex;}
